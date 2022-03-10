@@ -1,0 +1,283 @@
+<!--Toinen galleria sivu alkaa-->
+<body>
+    <main id="main">
+      
+        <!-- ======= About Section ======= -->
+       
+        <!-- End About Section -->
+    
+        <!-- ======= Services Section ======= -->
+        <!-- End Services Section -->
+    
+        <!-- ======= Portfolio Section ======= -->
+        <div id="portfolio" class="paddsection">
+    
+          <div class="container">
+            <div class="section-title text-center">
+              <h2>GALLERIA</h2>
+            </div>
+          </div>
+    
+          <div class="container">
+    
+            <div class="row">
+              <div class="col-lg-12 d-flex justify-content-center">
+                <ul id="portfolio-flters">
+                  <li data-filter="*" class="filter-active">Kaikki</li>
+                  <li data-filter=".filter-juhla">Juhlat</li>
+                  <li data-filter=".filter-maisema">Maisemat</li>
+                  <li data-filter=".filter-perhe">Perhe</li>
+                </ul>
+              </div>
+            </div>
+    
+            <div class="row portfolio-container">
+    
+              <div class="col-lg-4 col-md-6 portfolio-item filter-juhla">
+                <img src="assets\img\Gallery2\juhla5.jpg" class="img-fluid" alt="Katse">
+              <div class="portfolio-info">
+                <p>Katse</p>
+              <a href="assets\img\Gallery2\juhla5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
+              </div>
+              </div>
+    
+             
+    
+              <div class="col-lg-4 col-md-6 portfolio-item filter-juhla">
+                <img src="assets\img\Gallery2\juhla7.jpg" class="img-fluid" alt="Rakkautta ilmassa">
+                <div class="portfolio-info">
+                  <p>Rakkautta ilmassa</p>
+                <a href="assets\img\Gallery2\juhla7.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
+                </div>
+              </div>
+    
+              <div class="col-lg-4 col-md-6 portfolio-item filter-juhla">
+                <img src="assets\img\Gallery2\juhla8.jpg" class="img-fluid" alt="Tivoli">
+                <div class="portfolio-info">
+                  <p>Tivoli</p>
+                <a href="assets\img\Gallery2\juhla8.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
+                </div>
+              </div>
+    
+             
+    
+              <div class="col-lg-4 col-md-6 portfolio-item filter-juhla">
+                <img src="assets\img\Gallery2\juhla10.jpg" class="img-fluid" alt="Ratsailla">
+                <div class="portfolio-info">
+                  <p>Ratsailla</p>
+                <a href="assets\img\Gallery2\juhla10.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
+                </div>
+              </div>
+              <div class="col-lg-4 col-md-6 portfolio-item filter-juhla">
+                <img src="assets\img\Gallery2\juhla11.jpg" class="img-fluid" alt="Palloilu">
+                <div class="portfolio-info">
+                  <p>Palloilu</p>
+                <a href="assets\img\Gallery2\juhla11.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
+                </div>
+              </div>
+    
+              <div class="col-lg-4 col-md-6 portfolio-item filter-juhla">
+                <img src="assets\img\Gallery2\juhla12.jpg" class="img-fluid" alt="Kesäilta">
+                <div class="portfolio-info">
+                  <p>Kesäilta</p>
+                <a href="assets\img\Gallery2\juhla12.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
+                </div>
+              </div>
+    
+              <div class="col-lg-4 col-md-6 portfolio-item filter-juhla">
+                <img src="assets\img\Gallery2\juhla13.jpg" class="img-fluid" alt="Hetki">
+                <div class="portfolio-info">
+                  <p>Hetki</p>
+                <a href="assets\img\Gallery2\juhla13.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
+                </div>
+              </div>
+    
+              <div class="col-lg-4 col-md-6 portfolio-item filter-juhla">
+                <img src="assets\img\Gallery2\juhla14.jpg" class="img-fluid" alt="Kattaus">
+                <div class="portfolio-info">
+                  <p>Kattaus</p>
+                <a href="assets\img\Gallery2\juhla14.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
+                </div>
+              </div>
+    
+              
+    
+             
+              
+              
+              <div class="col-lg-4 col-md-6 portfolio-item filter-maisema">
+                <img src="assets\img\Gallery2\maisema10.jpg" class="img-fluid" alt="Linna">
+                <div class="portfolio-info">
+                  <p>Linna</p>
+                <a href="assets\img\Gallery2\maisema10.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
+                </div>
+              </div>
+              
+              <div class="col-lg-4 col-md-6 portfolio-item filter-maisema">
+                <img src="assets\img\Gallery2\maisema13.jpg" class="img-fluid" alt="Tie tulevaan">
+                <div class="portfolio-info">
+                  <p>Tie tulevaan</p>
+                <a href="assets\img\Gallery2\maisema13.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
+                </div>
+              </div>
+             
+              <div class="col-lg-4 col-md-6 portfolio-item filter-perhe">
+                <img src="assets\img\Gallery2\perhe5.jpg" class="img-fluid" alt="Sisarukset">
+                <div class="portfolio-info">
+                  <p>Sisarukset</p>
+                <a href="assets\img\Gallery2\perhe5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
+                </div>
+              </div>
+              <div class="col-lg-4 col-md-6 portfolio-item filter-perhe">
+                <img src="assets\img\Gallery2\perhe6.jpg" class="img-fluid" alt="Äiteys">
+                <div class="portfolio-info">
+                  <p>Äiteys</p>
+                <a href="assets\img\Gallery2\perhe6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
+                </div>
+              </div>
+              <div class="col-lg-4 col-md-6 portfolio-item filter-perhe">
+                <img src="assets\img\Gallery2\perhe7.jpg" class="img-fluid" alt="Joulupöytä">
+                <div class="portfolio-info">
+                  <p>Joulupöytä</p>
+                <a href="assets\img\Gallery2\perhe7.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
+                </div>
+              </div>
+              <div class="col-lg-4 col-md-6 portfolio-item filter-perhe">
+                <img src="assets\img\Gallery2\perhe8.jpg" class="img-fluid" alt="Syysperhe">
+                <div class="portfolio-info">
+                  <p>Syysperhe</p>
+                <a href="assets\img\Gallery2\perhe8.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
+                </div>
+              </div>
+              
+              <div class="col-lg-4 col-md-6 portfolio-item filter-perhe">
+                <img src="assets\img\Gallery2\perhe10.jpg" class="img-fluid" alt="Asenne kunnossa">
+                <div class="portfolio-info">
+                  <p>Asenne kunnossa</p>
+                <a href="assets\img\Gallery2\perhe10.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
+                </div>
+              </div>
+              <div class="col-lg-4 col-md-6 portfolio-item filter-perhe">
+                <img src="assets\img\Gallery2\perhe11.jpg" class="img-fluid" alt="Ylösalaisin">
+                <div class="portfolio-info">
+                  <p>Ylösalaisin</p>
+                <a href="assets\img\Gallery2\perhe11.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
+                </div>
+              </div>
+              
+              <div class="col-lg-4 col-md-6 portfolio-item filter-perhe">
+                <img src="assets\img\Gallery2\perhe14.jpg" class="img-fluid" alt="Äidin syli">
+                <div class="portfolio-info">
+                  <p>Äidin syli</p>
+                <a href="assets\img\Gallery2\perhe14.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
+                </div>
+              </div>
+              
+              
+              
+              <div class="col-lg-4 col-md-6 portfolio-item filter-maisema">
+                <img src="assets\img\Gallery2\maisema7.jpg" class="img-fluid" alt="Huippuvuoret">
+                <div class="portfolio-info">
+                  <p>Huippuvuoret</p>
+                <a href="assets\img\Gallery2\maisema7.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
+                </div>
+              </div>
+              <div class="col-lg-4 col-md-6 portfolio-item filter-maisema">
+                <img src="assets\img\Gallery2\maisema6.jpg" class="img-fluid" alt="Tulppaanimeri">
+                <div class="portfolio-info">
+                  <p>Tulppaanimeri/p>
+                <a href="assets\img\Gallery2\maisema6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
+                </div>
+              </div>
+              <div class="col-lg-4 col-md-6 portfolio-item filter-maisema">
+                <img src="assets\img\Gallery2\maisema11.jpg" class="img-fluid" alt="Silta hämärässä">
+                <div class="portfolio-info">
+                  <p>Silta hämärässä</p>
+                <a href="assets\img\Gallery2\maisema11.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
+                </div>
+              </div>
+              <div class="col-lg-4 col-md-6 portfolio-item filter-maisema">
+                <img src="assets\img\Gallery2\maisema12.jpg" class="img-fluid" alt="Ranta">
+                <div class="portfolio-info">
+                  <p>Ranta</p>
+                <a href="assets\img\Gallery2\maisema12.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
+                </div>
+              </div>
+              <div class="col-lg-4 col-md-6 portfolio-item filter-maisema">
+                <img src="assets\img\Gallery2\maisema14.jpg" class="img-fluid" alt="Rauhassa">
+                <div class="portfolio-info">
+                  <p>Rauhassa</p>
+                <a href="assets\img\Gallery2\maisema14.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
+                </div>
+              </div>
+              <div class="col-lg-4 col-md-6 portfolio-item filter-perhe">
+                <img src="assets\img\Gallery2\perhe9.jpg" class="img-fluid" alt="Hetkessä">
+                <div class="portfolio-info">
+                  <p>Hetkessä</p>
+                <a href="assets\img\Gallery2\perhe9.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
+                </div>
+              </div>
+              <div class="col-lg-4 col-md-6 portfolio-item filter-perhe">
+                <img src="assets\img\Gallery2\perhe12.jpg" class="img-fluid" alt="Vastasyntynyt">
+                <div class="portfolio-info">
+                  <p>Vastasyntynyt</p>
+                <a href="assets\img\Gallery2\perhe12.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
+                </div>
+              </div>
+              <div class="col-lg-4 col-md-6 portfolio-item filter-perhe">
+                <img src="assets\img\Gallery2\perhe13.jpg" class="img-fluid" alt="Ajassa">
+                <div class="portfolio-info">
+                  <p>Ajassa</p>
+                <a href="assets\img\Gallery2\perhe13.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
+                </div>
+              </div>
+              <div class="col-lg-4 col-md-6 portfolio-item filter-juhla">
+                <img src="assets\img\Gallery2\juhla6.jpg" class="img-fluid" alt="Iäisyys">
+                <div class="portfolio-info">
+                  <p>Iäisyys</p>
+                <a href="assets\img\Gallery2\juhla6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
+                </div>
+              </div>
+              <div class="col-lg-4 col-md-6 portfolio-item filter-juhla">
+                <img src="assets\img\Gallery2\juhla9.jpg" class="img-fluid" alt="Herkuttelu">
+                <div class="portfolio-info">
+                  <p>Herkuttelu</p>
+                <a href="assets\img\Gallery2\juhla9.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
+                </div>
+              </div>
+              <div class="col-lg-4 col-md-6 portfolio-item filter-maisema">
+                <img src="assets\img\Gallery2\maisema8.jpg" class="img-fluid" alt="Kukkaketo">
+                <div class="portfolio-info">
+                  <p>Kukkaketo</p>
+                <a href="assets\img\Gallery2\maisema8.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
+                </div>
+              </div>
+              <div class="col-lg-4 col-md-6 portfolio-item filter-maisema">
+                <img src="assets\img\Gallery2\maisema9.jpg" class="img-fluid" alt="Pinkit vuoret">
+                <div class="portfolio-info">
+                  <p>Pinkit vuoret</p>
+                <a href="assets\img\Gallery2\maisema9.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
+                </div>
+              </div>
+              <div class="col-lg-4 col-md-6 portfolio-item filter-maisema">
+                <img src="assets\img\Gallery2\maisema5.jpg" class="img-fluid" alt="Sininen unelma">
+                <div class="portfolio-info">
+                  <p>Sininen unelma</p>
+                <a href="assets\img\Gallery2\maisema5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
+                </div>
+              </div>
+    
+            </div>
+    
+          </div>
+    
+        </div><!-- End Portfolio Section -->
+    
+        <!-- ======= Journal Section ======= -->
+       <!-- End Journal Section -->
+    
+        <!-- ======= Contact Section ======= -->
+        <!-- End Contact Section -->
+    
+      </main>
+    </body>
